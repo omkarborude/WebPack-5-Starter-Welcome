@@ -1,0 +1,24 @@
+h2 {
+  margin-left: 1rem;
+  color: red;
+}
+.app-main-div {
+  display: flex;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: center;
+}
+.main-img-div {
+  width: 4rem;
+  height: 4rem;
+}
+.main-img-div img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.app-editing-tag {
+  margin-top: 1rem;
+  font-weight: 600;
+}
